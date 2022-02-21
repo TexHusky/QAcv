@@ -10,10 +10,14 @@ hr {
 }
 h1 {
   color: #4e7a7a;
+  font-family: fantasy;
 }
 h3 {
   color: #4e7a7a;
 }
 h2 {
   color: #4e7a7a;
+}
+.message:hover {
+  color: rgb(255, 78, 47);
 }
